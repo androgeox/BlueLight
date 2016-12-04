@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlueLight</string>
+    <string name="button2">Отправить 1</string>
+    <string name="button1">Отправить 0</string>
+    <string name="field">Поле текстовых сообщений</string>
+</resources>
